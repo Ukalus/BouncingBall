@@ -1,4 +1,7 @@
-# Welcome to p5.js
+Small bouncing ball animation to learn basics of P5 Library
+further down is The P5 example README.txt
+
+P5_README ==> # Welcome to p5.js
 
 You have downloaded the complete p5.js library ZIP file, yay!
 

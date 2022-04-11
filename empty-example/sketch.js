@@ -20,7 +20,7 @@ function setup() {
 function draw() {
   // put drawing code here 
 
-  fill(255,255,255,);
+  fill(255,255,255);
   circle(point1.x + random(-10,10),point1.y + random(-10,10),ballradius*2 + random(-40,40));
   point1.x = point1.x + speedX;
   if(point1.x > width -ballradius || point1.x < ballradius)
